@@ -108,7 +108,7 @@ body {
     margin: 0;
   }
   .img-container {
-    background: url(/images/image-header-desktop.jpg) center;
+    background: url(images/image-header-desktop.jpg) center;
     background-size: cover;
   }
   .img-container img {
